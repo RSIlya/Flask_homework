@@ -1,0 +1,14 @@
+# IDE specific
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.sqlite3
+env/
+venv/
+.venv/
+.env/
